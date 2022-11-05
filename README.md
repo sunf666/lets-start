@@ -1,6 +1,5 @@
 
 ## Github : https://github.com/sunf666
-github地址：
 ## Timeline 
 :::info
 | 序号 | 课程主题 | 代码仓库链接 | 备注 |
