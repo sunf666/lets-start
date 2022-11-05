@@ -1,14 +1,4 @@
-# 测试
-## 查看状态
-git status
-##  将文件添加到暂存区
-git add
-## 生成版本
-git commit -m
-## 初始化仓库
-git init
-## 查看版本信息
-git log
+
 ## Github : https://github.com/sunf666
 github地址：
 ## Timeline 
